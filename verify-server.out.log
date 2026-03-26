@@ -1,0 +1,4 @@
+HQ server started on port 5051.
+Waiting for customer and administrator devices to connect...
+Connected: /127.0.0.1:55982
+Client disconnected: /127.0.0.1:55982
